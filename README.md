@@ -9,3 +9,11 @@ This is a placeholder for now until the software is realeased, currently in beta
 
 
 
+![image](https://github.com/Jay-esp/HP-8903B-Audio-Analyzer-software/assets/58309071/788a5294-af78-4621-b7f6-bcb332fa1d1f)
+
+
+
+![image](https://github.com/Jay-esp/HP-8903B-Audio-Analyzer-software/assets/58309071/528c8e1d-2b84-4749-8366-f955309eb0bc)
+
+
+
