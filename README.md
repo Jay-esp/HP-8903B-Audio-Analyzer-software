@@ -5,7 +5,7 @@ The Audio Analyzer software is intended to be used with the HP / Agilent (now Ke
 It is assumed you are familiar with the analyzer and know how to connect devices under test.
 The software is freeware but not open source and is written in LabVIEW.
 
-This is a placeholder for now until the software is realeased, currently in beta-test, if you are interested in testing contact me.
+The installer can be downloaded from the releases.
 
 
 
